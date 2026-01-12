@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.kochbuch",
+    "sha256_cert_fingerprints":
+    ["FC:37:F1:4E:02:A7:96:0B:50:A0:22:28:1C:89:27:4F:8F:9B:21:CA:0D:34:65:A8:71:51:D6:23:AF:CE:F9:32"]
+  }
+}]
